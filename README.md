@@ -9,3 +9,5 @@
 ## `Used React Bootstrap for UI elements`
 
 ## `Did not write any custom css, due to time contraint`
+
+End point is hard coded
